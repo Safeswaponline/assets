@@ -1,0 +1,11 @@
+{
+    "name": "SafeSwap Token",
+    "website": "https://www.safeswap.onlinee/",
+    "description": "The SafeSwap Online cryptocurrency trading platform is a tool that allows users to exchange cryptocurrencies safely and effiecient. SafeSwap empowers liquidity providers and traders to connect in an financial environment that is accessible to everyone with compatible wallets such as MetaMask, TrustWallet, Wallet Connect, SafePal and Binance Smart Chain Wallet.",
+    "explorer": "https://bscscan.com/token/0xDfDec49462f7D3C3b0A48E729F77A0645CDFA7c0",
+    "type": "BEP20",
+    "symbol": "SWAP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xe56a473043eaab7947c0a2408cea623074500ee3"
+}
