@@ -1,0 +1,11 @@
+{
+    "name": "Cynical Squid",
+    "website": "cynicalsquid.com",
+    "description": "Cyinal Squid is the native token for the project Cyniqal Squid.",
+    "explorer": "https://bscscan.com/token/0x3f72b2ea3c17e59b95c73b0b4b937485b2473853",
+    "type": "BEP20",
+    "symbol": "SCAM",
+    "decimals": 10,
+    "status": "active",
+    "id": "0x3f72b2ea3c17e59b95c73b0b4b937485b2473853"
+}
