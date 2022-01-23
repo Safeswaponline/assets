@@ -1,0 +1,11 @@
+{
+    "name": "Medabots Token",
+    "website": "https://www.medabots.io/",
+    "description": "The SafeSwap Online cryptocurrency trading platform is a tool that allows users to exchange cryptocurrencies safely and effiecient. SafeSwap empowers liquidity providers and traders to connect in an financial environment that is accessible to everyone with compatible wallets such as MetaMask, TrustWallet, Wallet Connect, SafePal and Binance Smart Chain Wallet.",
+    "explorer": "https://bscscan.com/token/0x9130990dD16eD8BE8BE63E46CAd305C2C339Dac9",
+    "type": "BEP20",
+    "symbol": "MEDA",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x9130990dD16eD8BE8BE63E46CAd305C2C339Dac9"
+}
