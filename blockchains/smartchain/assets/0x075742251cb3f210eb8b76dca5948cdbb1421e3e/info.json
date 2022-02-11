@@ -1,0 +1,11 @@
+{
+    "name": "Cynical Squid Token",
+    "website": "https://cynicalsquid.com/",
+    "description": "CSP is a utility token created for the CSP app.",
+    "explorer": "https://bscscan.com/token/0x075742251cb3f210eb8b76dca5948cdbb1421e3e",
+    "type": "BEP20",
+    "symbol": "CSP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x075742251cb3f210eb8b76dca5948cdbb1421e3e"
+}
